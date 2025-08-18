@@ -1,2 +1,3 @@
 # Python-Series-01
-ECG Signal Analysis
+Simple code to analyze physiological data (ecg) using Python and Git and display them, trying to match actual ECG readings.
+
