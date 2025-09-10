@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional: only if you don’t want to version CSV, logs, etc.)
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
